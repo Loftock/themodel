@@ -5,7 +5,7 @@ const models = [
     cover: "images/model-01/01.jpg",
     height: "178 cm",
     weight: "69 kg",
-    measurements: "",
+    measurements: "B90 W60 H90",
     shoe: "43",
     hair: "Kumral",
     eyes: "Mavi",
