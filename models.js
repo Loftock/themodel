@@ -47,7 +47,7 @@ const models = [
       "images/model-02/10.jpg"
     ]
   },
-    {
+  {
     id: "model-03",
     name: "Anna May",
     cover: "images/model-03/01.jpg",
@@ -142,7 +142,7 @@ const models = [
       "images/model-06/09.jpg",
       "images/model-06/10.jpg"
     ]
-      },
+  },
   {
     id: "model-07",
     name: "Julia",
@@ -166,7 +166,7 @@ const models = [
       "images/model-07/09.jpg",
       "images/model-07/10.jpg"
     ]
-          },
+  },
   {
     id: "model-08",
     name: "Aleyna",
@@ -190,7 +190,7 @@ const models = [
       "images/model-08/09.jpg",
       "images/model-08/10.jpg"
     ]
-      },
+  },
   {
     id: "model-09",
     name: "Azize",
