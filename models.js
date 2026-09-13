@@ -46,5 +46,29 @@ const models = [
       "images/model-02/09.jpg",
       "images/model-02/10.jpg"
     ]
+  },
+    {
+    id: "model-03",
+    name: "Anna May",
+    cover: "images/model-03/01.jpg",
+    height: "186 cm",
+    weight: "72 kg",
+    measurements: "",
+    shoe: "46",
+    hair: "Siyah",
+    eyes: "Yeşil",
+    city: "İstanbul",
+    photos: [
+      "images/model-03/01.jpg",
+      "images/model-03/02.jpg",
+      "images/model-03/03.jpg",
+      "images/model-03/04.jpg",
+      "images/model-03/05.jpg",
+      "images/model-03/06.jpg",
+      "images/model-03/07.jpg",
+      "images/model-03/08.jpg",
+      "images/model-03/09.jpg",
+      "images/model-03/10.jpg"
+    ]
   }
 ];
