@@ -1,14 +1,14 @@
 const models = [
   {
     id: "model-01",
-    name: "Kayra Bez",
+    name: "Julia",
     cover: "images/model-01/01.jpg",
-    height: "178 cm",
-    weight: "69 kg",
-    measurements: "B90 W60 H90",
-    shoe: "43",
-    hair: "Kumral",
-    eyes: "Mavi",
+      height: "174 cm",
+    weight: "55 kg",
+    measurements: "Bust 83 Waist 64 Hips 95",
+    shoe: "38", 
+    hair: "Blonde",
+    eyes: "Green",
     city: "İstanbul",
     photos: [
       "images/model-01/01.jpg",
