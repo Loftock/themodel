@@ -214,3 +214,5 @@ const models = [
       "images/model-09/09.jpg",
       "images/model-09/10.jpg"
     ]
+  }
+];
