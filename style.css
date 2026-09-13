@@ -46,4 +46,12 @@ figcaption { padding-top:10px; font-size:11px; color:var(--muted); }
   .profile-hero { display:block; padding:65px 0 40px; }
   .stats { margin-top:40px; justify-content:space-between; }
   .details-layout { grid-template-columns:1fr; gap:35px; }
+  .brand {
+  font-family: Arial, sans-serif;
+}
+
+.model-word {
+  color: e51b62;
+  font-family: inherit;
+}
 }
